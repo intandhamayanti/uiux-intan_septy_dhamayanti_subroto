@@ -1,0 +1,4 @@
+1. negative space merupakan ruang kosong di antara atau di sekitar unsur-unsur desain. Ruang ini tidak melulu harus putih, yang penting adalah tidak ada tulisan atau gambar apapun, kosong.
+2. Proximity atau kedekatan berfungsi untuk menciptakan ikatan di antara elemen-elemen desain. Seberapa dekat posisi elemen-elemen tersebut berada, bisa mengkomunikasikan hubungan antara satu elemen dan lainnya.
+3. Kontras dalam desain adalah perbedaan yang mencolok dalam design tersebut.
+4. Alignment menentukan cara setiap elemen ditempatkan dalam desain. Dengan memakai alignment ini, maka desain kita akan terlihat lebih rapi dan enak untuk dibaca atau dipahami oleh pengguna. 
