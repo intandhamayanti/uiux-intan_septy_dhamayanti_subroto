@@ -1,0 +1,22 @@
+Budi - Izin tanya, dari pengalaman kak Intan ketika melakukan design hal apa sih yg paling sulit pas ndesign dan bagaimana cara kakak menangani hal tersebut?
+Lalu perbedaan ux researcher, product designer dan UI designer apa ya? Bukannya sama2 design juga?
+
+jawab: kalo saya sendiri biasanya kalo bikin wireframe itu malah buntu, gada gambaran. jd biasanya langsung high fidelity.
+untuk perbedaan ux reserh, product designer sebenarnya sama saja,
+tapi kalo ux reserc, mereka bagian reserh, ux writer mereka bagian bikin text2nya, kayak digojek,
+kalo ui yg negdesain.
+
+
+
+Firman - Saat kita melakukan design bagaimana kita tahu bahwa warna yang kita pilih pada design sudah serasi atau tidak?
+jwb: warna disesuaikan dengan branding perusahaan. misal tokopedia hijau, berarti apk nya hijau.
+dan ada juga psikologi warna, 
+
+
+Wilda - mengenai design thinking apakah itu satu²nya metode untuk design kak? terus untuk tahapan²nya apakah sudah fix seperti itu atau bisa menyesuaikan?
+setau saya memang cuma 1 itu, trus untuk tahapannya bisa disesuaikan. misal
+kita dikasih projek waktunya cuma 2 bulan, ga mungkin kita pake research2 dulu, karena ga cukup.
+
+
+ask_FirmanMln bagaimana jika seorang client menginginkan design A tetapi menurut saya sendiri dari design A tersebut memiliki Icon/tata letak sebuah menu yang akan membuat user menjadi bingung.
+jawab: turutin aja, mungkin si klient ini sudah punya pertimbangan sebelumnya kenapa kok seperti itu 
